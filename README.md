@@ -70,7 +70,7 @@
 <h2 align="left">Portfolio</h2>
 
 <a href="https://malvesbruno.github.io/NewPortifolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/malvesbruno/malvesbruno/refs/heads/main/Portfolio%20(1)%20(1).png" width="200" height="auto" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/malvesbruno/malvesbruno/refs/heads/main/Portfolio%20(1)%20(1).png" width="150" height="auto" alt="linkedin logo"  />
 </a>
 
 <br clear="both">
