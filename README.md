@@ -75,6 +75,14 @@
 
 <br clear="both">
 
+<h2 align="left">Curriculum</h2>
+
+<a href="https://malvesbruno.github.io/Curriculum/" target="_blank">
+    <img src="https://raw.githubusercontent.com/malvesbruno/malvesbruno/refs/heads/main/Portfolio%20(2)_processed.png" width="150" height="auto" alt="linkedin logo"  />
+</a>
+
+<br clear="both">
+
 <h2 align="left">Contact</h2>
 
 <div align="left">
