@@ -68,7 +68,7 @@
 <br clear="both">
 
 <h2 align="left">Portfolio</h2>
-<p><a href="https://malvesbruno.github.io/NewPortifolio/" target="_blank">link</a></p>
+<p><a href="https://malvesbruno.github.io/NewPortifolio/" target="_blank" style="color: white; width: 100px; height: 100px; background: blue; color: white; text-decoration: none;">link</a></p>
 
 <br clear="both">
 
