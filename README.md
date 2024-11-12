@@ -68,7 +68,10 @@
 <br clear="both">
 
 <h2 align="left">Portfolio</h2>
-<p><a href="https://malvesbruno.github.io/NewPortifolio/" target="_blank" style="color: white; width: 100px; height: 100px; background: blue; color: white; text-decoration: none;">link</a></p>
+
+<a href="[https://www.linkedin.com/in/bruno-massuete-7a91b3234/](https://malvesbruno.github.io/NewPortifolio/)" target="_blank">
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://raw.githubusercontent.com/malvesbruno/malvesbruno/refs/heads/main/Portfolio%20(1)%20(1).png)" width="52" height="40" alt="linkedin logo"  />
+</a>
 
 <br clear="both">
 
